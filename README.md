@@ -28,9 +28,9 @@ This repository serves as my personal introduction to GitHub. It covers:
 | File | Description |
 |------|-------------|
 | 📄 README.md | You're reading it! |
-| 🗂️ file1 | Sample file uploaded for the assignment |
-| 🗂️ file2 | Another sample file |
-| 🗂️ file3 | One more sample file |
+| 🗂️ idol-rene | JPG File |
+| 🗂️ MP1Suyat | PDF File |
+| 🗂️ auth.middleware | Typescript File |
 
 ---
 
